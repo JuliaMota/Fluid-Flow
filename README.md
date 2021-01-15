@@ -1,0 +1,2 @@
+# Fluid-Flow
+This repository has the purpose of registering the Fluid Flow code (which makes up the Ross-Rotordynamics library) developed and used in my master's dissertation.   (Mota, J. A.; Estudo da teoria de lubrificação com parametrização diferenciada da geometria e aplicações em mancais hidrodinâmicos. Dissertação de Mestrado - Programa de Pós-Graduação em Informática, Universidade Federal do Rio de Janeiro, Rio de Janeiro, 2020)
